@@ -1,0 +1,158 @@
+{
+  "en": {
+    "termsTitle": "Terms of use",
+    "termsText": [
+      "Quran Kareem is provided by TrendyTech for personal reading and study. Core reading is free; some features require internet access. Keep your account secure and use the service lawfully.",
+      "Optional AI access uses a store subscription or your own provider key. The store shows the price, billing period and renewal terms before purchase. Manage cancellation and refund requests through your store. Deleting your app account does not cancel a subscription.",
+      "AI answers can be inaccurate and are not a substitute for qualified scholarship. Third-party content remains subject to its source licences. Your statutory consumer rights are not limited by these terms. Contact: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Crash diagnostics and app security",
+    "diagnosticsText": "We use Firebase Crashlytics to diagnose crashes. Reports may include crash traces, app and operating-system versions, device information and installation identifiers. We do not attach your email, account ID, notes, AI prompts or API keys to diagnostic reports. App Check uses Apple App Attest or Google Play Integrity to verify genuine app requests.",
+    "retentionTitle": "Purchase-record retention",
+    "retentionText": "After account deletion, a non-reversible account fingerprint and purchase-ownership records remain to prevent the same receipt from being reused by another account. These records are not a reading-history backup. Store billing records are managed separately by Apple or Google."
+  },
+  "ar": {
+    "termsTitle": "شروط الاستخدام",
+    "termsText": [
+      "يقدّم TrendyTech تطبيق القرآن الكريم للقراءة والدراسة الشخصية. القراءة الأساسية مجانية، وتتطلب بعض الميزات اتصالاً بالإنترنت. حافظ على أمان حسابك واستخدم الخدمة بصورة قانونية.",
+      "يستخدم الوصول الاختياري إلى الذكاء الاصطناعي اشتراك المتجر أو مفتاح مزوّدك الخاص. يعرض المتجر السعر وفترة الفوترة وشروط التجديد قبل الشراء. أدر الإلغاء وطلبات الاسترداد عبر المتجر. حذف حساب التطبيق لا يلغي الاشتراك.",
+      "قد تكون إجابات الذكاء الاصطناعي غير دقيقة ولا تغني عن أهل العلم. يخضع محتوى الجهات الأخرى لتراخيص مصادره. لا تحدّ هذه الشروط من حقوق المستهلك القانونية. للتواصل: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "تشخيص الأعطال وأمان التطبيق",
+    "diagnosticsText": "نستخدم Firebase Crashlytics لتشخيص الأعطال. قد تتضمن التقارير تفاصيل العطل وإصدارات التطبيق ونظام التشغيل ومعلومات الجهاز ومعرّفات التثبيت. لا نرفق بريدك أو معرّف حسابك أو ملاحظاتك أو أسئلتك للذكاء الاصطناعي أو مفاتيح API بتقارير التشخيص. يستخدم App Check خدمة Apple App Attest أو Google Play Integrity للتحقق من طلبات التطبيق الأصلية.",
+    "retentionTitle": "الاحتفاظ بسجلات الشراء",
+    "retentionText": "بعد حذف الحساب، نحتفظ ببصمة حساب غير قابلة للعكس وسجلات ملكية الشراء لمنع إعادة استخدام الإيصال نفسه بحساب آخر. ليست هذه السجلات نسخة احتياطية لسجل القراءة. تدير Apple أو Google سجلات الفوترة في المتجر بصورة منفصلة."
+  },
+  "ur": {
+    "termsTitle": "استعمال کی شرائط",
+    "termsText": [
+      "TrendyTech قرآن کریم کو ذاتی مطالعے کے لیے فراہم کرتا ہے۔ بنیادی تلاوت مفت ہے؛ کچھ خصوصیات کے لیے انٹرنیٹ ضروری ہے۔ اپنا اکاؤنٹ محفوظ رکھیں اور خدمت قانونی طور پر استعمال کریں۔",
+      "اختیاری AI کے لیے اسٹور کی رکنیت یا اپنے فراہم کنندہ کی کلید استعمال ہوتی ہے۔ خریدنے سے پہلے اسٹور قیمت، بلنگ کی مدت اور تجدید کی شرائط دکھاتا ہے۔ منسوخی اور رقم کی واپسی کی درخواست اسٹور سے کریں۔ ایپ کا اکاؤنٹ حذف کرنے سے رکنیت منسوخ نہیں ہوتی۔",
+      "AI کے جواب غلط ہو سکتے ہیں اور اہل علم کا متبادل نہیں ہیں۔ دوسرے فراہم کنندگان کے مواد پر ان کے لائسنس لاگو ہیں۔ صارف کے قانونی حقوق ان شرائط سے محدود نہیں ہوتے۔ رابطہ: trendytech355@gmail.com۔"
+    ],
+    "diagnosticsTitle": "خرابیوں کی تشخیص اور ایپ کی حفاظت",
+    "diagnosticsText": "ہم خرابیوں کی تشخیص کے لیے Firebase Crashlytics استعمال کرتے ہیں۔ رپورٹس میں خرابی کی تفصیلات، ایپ اور نظام کے ورژن، آلے کی معلومات اور تنصیب کے شناخت کنندے شامل ہو سکتے ہیں۔ ہم ای میل، اکاؤنٹ ID، نوٹس، AI سوالات یا API کلیدیں منسلک نہیں کرتے۔ App Check اصل ایپ کی درخواستوں کی تصدیق کے لیے Apple App Attest یا Google Play Integrity استعمال کرتا ہے۔",
+    "retentionTitle": "خریداری کے ریکارڈ کا تحفظ",
+    "retentionText": "اکاؤنٹ حذف ہونے کے بعد ناقابل واپسی اکاؤنٹ فنگرپرنٹ اور خریداری کی ملکیت کے ریکارڈ رکھے جاتے ہیں تاکہ وہی رسید دوسرے اکاؤنٹ پر استعمال نہ ہو۔ یہ مطالعے کی تاریخ کا بیک اپ نہیں ہیں۔ Apple یا Google اسٹور کے بلنگ ریکارڈ الگ سنبھالتے ہیں۔"
+  },
+  "tr": {
+    "termsTitle": "Kullanım koşulları",
+    "termsText": [
+      "TrendyTech, Quran Kareem’i kişisel okuma ve çalışma için sunar. Temel okuma ücretsizdir; bazı özellikler internet gerektirir. Hesabınızı güvende tutun ve hizmeti yasalara uygun kullanın.",
+      "İsteğe bağlı yapay zekâ erişimi, mağaza aboneliğini veya kendi sağlayıcı anahtarınızı kullanır. Mağaza satın almadan önce fiyatı, faturalama dönemini ve yenileme koşullarını gösterir. İptal ve iade taleplerini mağazanızdan yönetin. Uygulama hesabını silmek aboneliği iptal etmez.",
+      "Yapay zekâ yanıtları hatalı olabilir ve yetkin din âlimlerinin yerini tutmaz. Üçüncü taraf içeriği kaynak lisanslarına tabidir. Bu koşullar yasal tüketici haklarınızı sınırlamaz. İletişim: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Çökme tanılaması ve uygulama güvenliği",
+    "diagnosticsText": "Çökmeleri incelemek için Firebase Crashlytics kullanırız. Raporlar çökme izleri, uygulama ve işletim sistemi sürümleri, cihaz bilgileri ve kurulum kimlikleri içerebilir. E-postanızı, hesap kimliğinizi, notlarınızı, yapay zekâ sorularınızı veya API anahtarlarınızı raporlara eklemeyiz. App Check, gerçek uygulama isteklerini Apple App Attest veya Google Play Integrity ile doğrular.",
+    "retentionTitle": "Satın alma kayıtlarının saklanması",
+    "retentionText": "Hesap silindikten sonra aynı makbuzun başka hesapta kullanılmasını önlemek için geri döndürülemez hesap parmak izi ve satın alma sahiplik kayıtları tutulur. Bunlar okuma geçmişinin yedeği değildir. Mağaza faturalama kayıtlarını Apple veya Google ayrı yönetir."
+  },
+  "fr": {
+    "termsTitle": "Conditions d’utilisation",
+    "termsText": [
+      "TrendyTech fournit Quran Kareem pour la lecture et l’étude personnelles. La lecture de base est gratuite ; certaines fonctions nécessitent Internet. Protégez votre compte et utilisez le service légalement.",
+      "L’accès facultatif à l’IA utilise un abonnement au magasin ou votre propre clé fournisseur. Le magasin affiche le prix, la période de facturation et les conditions de renouvellement avant l’achat. Gérez les annulations et demandes de remboursement auprès du magasin. Supprimer le compte de l’application ne résilie pas l’abonnement.",
+      "Les réponses de l’IA peuvent être inexactes et ne remplacent pas un savoir religieux qualifié. Les contenus tiers restent soumis aux licences de leurs sources. Ces conditions ne limitent pas vos droits légaux de consommateur. Contact : trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Diagnostic des plantages et sécurité",
+    "diagnosticsText": "Nous utilisons Firebase Crashlytics pour diagnostiquer les plantages. Les rapports peuvent inclure traces de plantage, versions de l’application et du système, informations sur l’appareil et identifiants d’installation. Nous n’y joignons ni e-mail, ni identifiant de compte, ni notes, ni requêtes IA, ni clés API. App Check vérifie les requêtes authentiques avec Apple App Attest ou Google Play Integrity.",
+    "retentionTitle": "Conservation des achats",
+    "retentionText": "Après suppression du compte, une empreinte irréversible du compte et les enregistrements de propriété des achats sont conservés pour empêcher la réutilisation d’un reçu par un autre compte. Ce ne sont pas des sauvegardes de lecture. Apple ou Google gère séparément les enregistrements de facturation."
+  },
+  "es": {
+    "termsTitle": "Condiciones de uso",
+    "termsText": [
+      "TrendyTech ofrece Quran Kareem para lectura y estudio personales. La lectura básica es gratuita; algunas funciones requieren internet. Protege tu cuenta y utiliza el servicio legalmente.",
+      "El acceso opcional a IA usa una suscripción de la tienda o tu propia clave de proveedor. La tienda muestra precio, período de facturación y condiciones de renovación antes de comprar. Gestiona cancelaciones y solicitudes de reembolso en la tienda. Eliminar la cuenta de la app no cancela la suscripción.",
+      "Las respuestas de IA pueden ser inexactas y no sustituyen a especialistas religiosos cualificados. El contenido de terceros conserva las licencias de sus fuentes. Estas condiciones no limitan tus derechos legales como consumidor. Contacto: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Diagnóstico de fallos y seguridad",
+    "diagnosticsText": "Usamos Firebase Crashlytics para diagnosticar fallos. Los informes pueden incluir trazas, versiones de la app y del sistema, información del dispositivo e identificadores de instalación. No adjuntamos correo, ID de cuenta, notas, consultas de IA ni claves API. App Check verifica solicitudes auténticas mediante Apple App Attest o Google Play Integrity.",
+    "retentionTitle": "Conservación de compras",
+    "retentionText": "Tras eliminar la cuenta, conservamos una huella irreversible de la cuenta y registros de titularidad de compras para impedir que otra cuenta reutilice el mismo recibo. No son copias del historial de lectura. Apple o Google administra por separado los registros de facturación."
+  },
+  "hi": {
+    "termsTitle": "उपयोग की शर्तें",
+    "termsText": [
+      "TrendyTech व्यक्तिगत पढ़ने और अध्ययन के लिए Quran Kareem प्रदान करता है। मूल पठन निःशुल्क है; कुछ सुविधाओं के लिए इंटरनेट चाहिए। अपना खाता सुरक्षित रखें और सेवा का कानूनी रूप से उपयोग करें।",
+      "वैकल्पिक AI के लिए स्टोर सदस्यता या अपने प्रदाता की कुंजी का उपयोग होता है। खरीदने से पहले स्टोर कीमत, बिलिंग अवधि और नवीनीकरण की शर्तें दिखाता है। रद्द करने और धनवापसी का अनुरोध स्टोर से करें। ऐप खाता हटाने से सदस्यता रद्द नहीं होती।",
+      "AI के उत्तर गलत हो सकते हैं और योग्य धार्मिक विद्वानों का विकल्प नहीं हैं। अन्य प्रदाताओं की सामग्री पर उनके स्रोत लाइसेंस लागू रहते हैं। ये शर्तें आपके कानूनी उपभोक्ता अधिकारों को सीमित नहीं करतीं। संपर्क: trendytech355@gmail.com।"
+    ],
+    "diagnosticsTitle": "क्रैश निदान और ऐप सुरक्षा",
+    "diagnosticsText": "हम क्रैश का निदान करने के लिए Firebase Crashlytics का उपयोग करते हैं। रिपोर्ट में क्रैश विवरण, ऐप और सिस्टम संस्करण, डिवाइस की जानकारी और इंस्टॉलेशन पहचानकर्ता हो सकते हैं। हम ईमेल, खाता ID, नोट्स, AI प्रश्न या API कुंजियाँ नहीं जोड़ते। App Check वास्तविक ऐप अनुरोधों को Apple App Attest या Google Play Integrity से सत्यापित करता है।",
+    "retentionTitle": "खरीद रिकॉर्ड का संरक्षण",
+    "retentionText": "खाता हटाने के बाद अपरिवर्तनीय खाता फ़िंगरप्रिंट और खरीद स्वामित्व रिकॉर्ड रखे जाते हैं ताकि वही रसीद दूसरे खाते में इस्तेमाल न हो। ये पढ़ने के इतिहास का बैकअप नहीं हैं। Apple या Google स्टोर बिलिंग रिकॉर्ड अलग से संभालता है।"
+  },
+  "id": {
+    "termsTitle": "Ketentuan penggunaan",
+    "termsText": [
+      "TrendyTech menyediakan Quran Kareem untuk membaca dan belajar pribadi. Membaca dasar gratis; beberapa fitur memerlukan internet. Amankan akun Anda dan gunakan layanan secara sah.",
+      "Akses AI opsional menggunakan langganan toko atau kunci penyedia Anda sendiri. Toko menampilkan harga, periode tagihan, dan ketentuan perpanjangan sebelum pembelian. Kelola pembatalan dan permintaan pengembalian dana melalui toko. Menghapus akun aplikasi tidak membatalkan langganan.",
+      "Jawaban AI dapat keliru dan bukan pengganti ahli agama yang kompeten. Konten pihak ketiga tetap tunduk pada lisensi sumbernya. Ketentuan ini tidak membatasi hak konsumen menurut hukum. Kontak: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Diagnostik kerusakan dan keamanan",
+    "diagnosticsText": "Kami menggunakan Firebase Crashlytics untuk mendiagnosis kerusakan. Laporan dapat mencakup jejak kerusakan, versi aplikasi dan sistem, informasi perangkat, serta pengenal instalasi. Kami tidak melampirkan email, ID akun, catatan, pertanyaan AI, atau kunci API. App Check memverifikasi permintaan aplikasi asli melalui Apple App Attest atau Google Play Integrity.",
+    "retentionTitle": "Penyimpanan catatan pembelian",
+    "retentionText": "Setelah akun dihapus, sidik akun yang tidak dapat dibalik dan catatan kepemilikan pembelian disimpan untuk mencegah kuitansi yang sama dipakai akun lain. Catatan ini bukan cadangan riwayat membaca. Apple atau Google mengelola catatan tagihan toko secara terpisah."
+  },
+  "fa": {
+    "termsTitle": "شرایط استفاده",
+    "termsText": [
+      "TrendyTech برنامه قرآن کریم را برای خواندن و مطالعه شخصی ارائه می‌کند. خواندن پایه رایگان است؛ برخی امکانات اینترنت می‌خواهند. امنیت حساب خود را حفظ کنید و قانونی از خدمات استفاده کنید.",
+      "دسترسی اختیاری به هوش مصنوعی با اشتراک فروشگاه یا کلید ارائه‌دهنده خودتان است. فروشگاه پیش از خرید، قیمت، دوره پرداخت و شرایط تمدید را نشان می‌دهد. لغو و درخواست بازپرداخت را در فروشگاه مدیریت کنید. حذف حساب برنامه اشتراک را لغو نمی‌کند.",
+      "پاسخ‌های هوش مصنوعی ممکن است نادرست باشند و جایگزین دانش عالمان واجد صلاحیت نیستند. محتوای دیگران تابع مجوز منابع آن است. این شرایط حقوق قانونی مصرف‌کننده را محدود نمی‌کند. تماس: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "تشخیص خرابی و امنیت برنامه",
+    "diagnosticsText": "برای تشخیص خرابی از Firebase Crashlytics استفاده می‌کنیم. گزارش‌ها ممکن است شامل ردپای خرابی، نسخه برنامه و سیستم‌عامل، اطلاعات دستگاه و شناسه نصب باشند. ایمیل، شناسه حساب، یادداشت‌ها، پرسش‌های هوش مصنوعی یا کلیدهای API را به گزارش‌ها پیوست نمی‌کنیم. App Check درخواست‌های اصلی برنامه را با Apple App Attest یا Google Play Integrity تأیید می‌کند.",
+    "retentionTitle": "نگهداری سوابق خرید",
+    "retentionText": "پس از حذف حساب، اثر انگشت برگشت‌ناپذیر حساب و سوابق مالکیت خرید حفظ می‌شوند تا همان رسید در حساب دیگری استفاده نشود. این سوابق پشتیبان تاریخچه خواندن نیستند. Apple یا Google سوابق پرداخت فروشگاه را جداگانه مدیریت می‌کند."
+  },
+  "fil": {
+    "termsTitle": "Mga tuntunin ng paggamit",
+    "termsText": [
+      "Ibinibigay ng TrendyTech ang Quran Kareem para sa personal na pagbabasa at pag-aaral. Libre ang pangunahing pagbabasa; kailangan ng internet sa ilang tampok. Panatilihing ligtas ang account at gamitin nang legal ang serbisyo.",
+      "Gumagamit ang opsyonal na AI ng subscription sa store o sarili mong provider key. Ipinapakita ng store ang presyo, panahon ng pagsingil at mga tuntunin sa pag-renew bago bumili. Sa store pamahalaan ang pagkansela at refund. Hindi kinakansela ng pagtanggal ng app account ang subscription.",
+      "Maaaring mali ang sagot ng AI at hindi ito kapalit ng kwalipikadong iskolar. Saklaw pa rin ng lisensya ng pinagmulan ang nilalaman ng ibang provider. Hindi nililimitahan ng mga tuntuning ito ang legal mong karapatan bilang mamimili. Makipag-ugnayan: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Pagsusuri ng crash at seguridad",
+    "diagnosticsText": "Gumagamit kami ng Firebase Crashlytics upang suriin ang mga crash. Maaaring kasama sa ulat ang crash trace, bersyon ng app at sistema, impormasyon ng device at installation identifier. Hindi namin isinasama ang email, account ID, tala, AI prompt o API key. Gumagamit ang App Check ng Apple App Attest o Google Play Integrity para beripikahin ang tunay na app request.",
+    "retentionTitle": "Pagpapanatili ng tala ng pagbili",
+    "retentionText": "Pagkatapos tanggalin ang account, nananatili ang hindi maibabalik na account fingerprint at tala ng pagmamay-ari ng pagbili upang hindi magamit muli ng ibang account ang resibo. Hindi ito backup ng kasaysayan ng pagbabasa. Hiwalay na pinamamahalaan ng Apple o Google ang tala ng pagsingil."
+  },
+  "it": {
+    "termsTitle": "Condizioni d’uso",
+    "termsText": [
+      "TrendyTech offre Quran Kareem per la lettura e lo studio personali. La lettura di base è gratuita; alcune funzioni richiedono Internet. Proteggi il tuo account e usa il servizio legalmente.",
+      "L’accesso facoltativo all’IA usa un abbonamento dello store o la tua chiave del fornitore. Lo store mostra prezzo, periodo di fatturazione e condizioni di rinnovo prima dell’acquisto. Gestisci cancellazioni e richieste di rimborso nello store. Eliminare l’account dell’app non annulla l’abbonamento.",
+      "Le risposte dell’IA possono essere inesatte e non sostituiscono studiosi qualificati. I contenuti di terzi restano soggetti alle licenze delle fonti. Queste condizioni non limitano i diritti legali del consumatore. Contatto: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Diagnostica degli arresti e sicurezza",
+    "diagnosticsText": "Usiamo Firebase Crashlytics per diagnosticare gli arresti. I rapporti possono includere tracce, versioni dell’app e del sistema, informazioni sul dispositivo e identificativi di installazione. Non alleghiamo email, ID account, note, richieste IA o chiavi API. App Check verifica le richieste autentiche con Apple App Attest o Google Play Integrity.",
+    "retentionTitle": "Conservazione degli acquisti",
+    "retentionText": "Dopo l’eliminazione dell’account, conserviamo un’impronta irreversibile dell’account e registri di proprietà degli acquisti per impedire il riuso della stessa ricevuta da un altro account. Non sono backup della cronologia di lettura. Apple o Google gestisce separatamente i registri di fatturazione."
+  },
+  "de": {
+    "termsTitle": "Nutzungsbedingungen",
+    "termsText": [
+      "TrendyTech bietet Quran Kareem zum persönlichen Lesen und Lernen an. Die Grundfunktionen zum Lesen sind kostenlos; einige Funktionen benötigen Internet. Schütze dein Konto und nutze den Dienst rechtmäßig.",
+      "Der optionale KI-Zugang nutzt ein Store-Abonnement oder deinen eigenen Anbieterschlüssel. Der Store zeigt Preis, Abrechnungszeitraum und Verlängerungsbedingungen vor dem Kauf. Verwalte Kündigungen und Erstattungsanfragen über den Store. Das Löschen des App-Kontos kündigt kein Abonnement.",
+      "KI-Antworten können falsch sein und ersetzen keine qualifizierten Religionsgelehrten. Inhalte Dritter unterliegen den Lizenzen ihrer Quellen. Diese Bedingungen beschränken deine gesetzlichen Verbraucherrechte nicht. Kontakt: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Absturzdiagnose und App-Sicherheit",
+    "diagnosticsText": "Wir nutzen Firebase Crashlytics zur Absturzdiagnose. Berichte können Absturzspuren, App- und Systemversionen, Geräteinformationen und Installationskennungen enthalten. Wir fügen keine E-Mail, Konto-ID, Notizen, KI-Anfragen oder API-Schlüssel hinzu. App Check prüft echte App-Anfragen mit Apple App Attest oder Google Play Integrity.",
+    "retentionTitle": "Aufbewahrung von Kaufdaten",
+    "retentionText": "Nach Kontolöschung bleiben ein nicht umkehrbarer Konto-Fingerabdruck und Kaufzuordnungen erhalten, um die Wiederverwendung desselben Belegs durch ein anderes Konto zu verhindern. Dies sind keine Sicherungen des Leseverlaufs. Apple oder Google verwaltet Store-Abrechnungsdaten getrennt."
+  },
+  "nl": {
+    "termsTitle": "Gebruiksvoorwaarden",
+    "termsText": [
+      "TrendyTech biedt Quran Kareem voor persoonlijk lezen en studeren. Basislezen is gratis; sommige functies vereisen internet. Beveilig je account en gebruik de dienst rechtmatig.",
+      "Optionele AI-toegang gebruikt een winkelabonnement of je eigen providersleutel. De winkel toont vóór aankoop de prijs, factureringsperiode en verlengingsvoorwaarden. Regel opzeggingen en terugbetalingsverzoeken via de winkel. Je app-account verwijderen beëindigt geen abonnement.",
+      "AI-antwoorden kunnen onjuist zijn en vervangen geen bevoegde religieuze geleerden. Inhoud van derden blijft onder de licenties van de bronnen vallen. Deze voorwaarden beperken je wettelijke consumentenrechten niet. Contact: trendytech355@gmail.com."
+    ],
+    "diagnosticsTitle": "Crashdiagnose en appbeveiliging",
+    "diagnosticsText": "We gebruiken Firebase Crashlytics voor crashdiagnose. Rapporten kunnen crashtraces, app- en systeemversies, apparaatinformatie en installatie-ID’s bevatten. We voegen geen e-mail, account-ID, notities, AI-vragen of API-sleutels toe. App Check controleert echte appverzoeken via Apple App Attest of Google Play Integrity.",
+    "retentionTitle": "Bewaren van aankoopgegevens",
+    "retentionText": "Na accountverwijdering bewaren we een onomkeerbare accountvingerafdruk en aankooptoewijzingen om hergebruik van hetzelfde aankoopbewijs door een ander account te voorkomen. Dit zijn geen back-ups van de leesgeschiedenis. Apple of Google beheert factureringsgegevens van de winkel afzonderlijk."
+  }
+}
