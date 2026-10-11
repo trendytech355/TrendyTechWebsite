@@ -5,7 +5,7 @@ Public website for TrendyTech's indie mobile games and applications. GitHub Page
 ## Structure
 
 - `/`: studio introduction linking to Games and Applications.
-- `/games/`: game catalog; `/apps/`: application catalog.
+- `/games/`: game catalog; `/apps/`: application catalog; `/tools/`: tools catalog.
 - `data/projects.json`: project names, descriptions, categories, icons, store identifiers, store links, and About/Privacy/Support URLs.
 - `assets/`: shared website styles, project artwork, and store gallery assets.
 - `scripts/build-site.py`: generates the homepage, catalogs, support pages, new project landing pages, and sitemap.
@@ -16,7 +16,7 @@ Existing game URLs, including case-sensitive `/PipeCraft/about.html`, `/PipeCraf
 
 ## Add a game or application
 
-1. Copy an entry in `data/projects.json`. Choose a unique slug and category (`games` or `apps`), set the description, icon, email, project URL, About/Privacy/Support URLs, Android package, and iOS bundle ID. Start with empty `stores` and `screenshots`, or supply verified links and local image paths.
+1. Copy an entry in `data/projects.json`. Choose a unique slug and category (`games`, `apps`, or `tools`), set the description, icon, email, project URL, About/Privacy/Support URLs, Android package, and iOS bundle ID. Start with empty `stores` and `screenshots`, or supply verified links and local image paths.
 2. Add the project's privacy and About content at the configured paths. Existing pages are not overwritten by the generator. A new project landing page and support page are generated automatically. Keep legal content specific to that project.
 3. Run `python3 scripts/sync-store-assets.py` to fetch available public store assets. This is optional; local images work without store access. Run `python3 scripts/build-site.py` after catalog changes.
 4. Review, commit, and push the resulting static files. Adding a project updates its category catalog; the homepage remains focused on the studio and categories.

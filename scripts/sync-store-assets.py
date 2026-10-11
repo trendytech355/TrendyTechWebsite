@@ -14,6 +14,8 @@ def save_asset(url, slug, filename):
     return '/' + str(path.relative_to(ROOT))
 for project in projects:
     slug = project['slug']
+    if project.get('category') == 'tools':
+        continue
     try:
         result = json.loads(fetch('https://itunes.apple.com/lookup?' + urllib.parse.urlencode({'bundleId':project['iosBundleId'],'country':'us'})))
         apps = [a for a in result.get('results',[]) if a.get('bundleId') == project['iosBundleId']]

@@ -68,5 +68,19 @@
     "iosBundleId": "com.mushaf.reader",
     "stores": {},
     "screenshots": []
+  },
+  {
+    "slug": "campaign-insights-connector",
+    "name": "Campaign Insights Connector",
+    "category": "tools",
+    "description": "Private, local Google Ads reporting and campaign analysis with user-controlled account management.",
+    "url": "/tools/campaign-insights-connector/",
+    "about": "/tools/campaign-insights-connector/",
+    "privacy": "/privacy/",
+    "support": "/tools/campaign-insights-connector/support/",
+    "email": "trendytech355@gmail.com",
+    "icon": "",
+    "stores": {},
+    "screenshots": []
   }
 ]
