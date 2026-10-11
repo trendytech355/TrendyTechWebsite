@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "pipecraft",
+    "name": "Pipe Craft",
+    "category": "games",
+    "description": "Connect pipes and enjoy a mobile puzzle game.",
+    "url": "/games/pipecraft/",
+    "about": "/games/pipecraft/",
+    "privacy": "/games/pipecraft/privacy/",
+    "support": "/games/pipecraft/support/",
+    "email": "trendytech355@gmail.com",
+    "icon": "/assets/projects/pipecraft/icon.jpg",
+    "androidPackage": "com.trendytech.flowcraft",
+    "iosBundleId": "com.trendytech.flowcraft",
+    "stores": {
+      "ios": "https://apps.apple.com/us/app/pipe-craft-connect-puzzle/id6760567558?uo=4",
+      "android": "https://play.google.com/store/apps/details?id=com.trendytech.flowcraft&hl=en&gl=US"
+    },
+    "screenshots": [
+      "/assets/projects/pipecraft/ios-1.jpg",
+      "/assets/projects/pipecraft/ios-2.jpg",
+      "/assets/projects/pipecraft/ios-3.jpg",
+      "/assets/projects/pipecraft/ios-4.jpg",
+      "/assets/projects/pipecraft/ios-5.jpg",
+      "/assets/projects/pipecraft/ios-6.jpg"
+    ],
+    "androidIcon": "/assets/projects/pipecraft/android-icon.jpg"
+  },
+  {
+    "slug": "zombiecarnival",
+    "name": "Zombie Carnival: Monster Clash",
+    "category": "games",
+    "description": "A mobile action game from TrendyTech.",
+    "url": "/games/zombiecarnival/",
+    "about": "/games/zombiecarnival/",
+    "privacy": "/games/zombiecarnival/privacy/",
+    "support": "/games/zombiecarnival/support/",
+    "email": "trendytech355@gmail.com",
+    "icon": "/assets/projects/zombiecarnival/icon.jpg",
+    "androidPackage": "com.trendytech.cannonclash",
+    "iosBundleId": "com.trendytech.cannonclash",
+    "stores": {
+      "ios": "https://apps.apple.com/us/app/zombie-carnival-monster-clash/id6767942606?uo=4",
+      "android": "https://play.google.com/store/apps/details?id=com.trendytech.cannonclash&hl=en&gl=US"
+    },
+    "screenshots": [
+      "/assets/projects/zombiecarnival/ios-1.jpg",
+      "/assets/projects/zombiecarnival/ios-2.jpg",
+      "/assets/projects/zombiecarnival/ios-3.jpg",
+      "/assets/projects/zombiecarnival/ios-4.jpg",
+      "/assets/projects/zombiecarnival/ios-5.jpg",
+      "/assets/projects/zombiecarnival/ios-6.jpg"
+    ],
+    "androidIcon": "/assets/projects/zombiecarnival/android-icon.jpg"
+  },
+  {
+    "slug": "qurankareem",
+    "name": "Quran Kareem",
+    "category": "apps",
+    "description": "Read, listen, and explore the Quran on your phone.",
+    "url": "/apps/qurankareem/",
+    "about": "/apps/qurankareem/about/",
+    "privacy": "/apps/qurankareem/privacy/",
+    "support": "/apps/qurankareem/support/",
+    "email": "trendytech355@gmail.com",
+    "icon": "/apps/qurankareem/quran-kareem-icon.png",
+    "androidPackage": "com.moalemadi.qurankareem",
+    "iosBundleId": "com.mushaf.reader",
+    "stores": {},
+    "screenshots": []
+  }
+]
