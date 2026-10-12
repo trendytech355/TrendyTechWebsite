@@ -66,7 +66,9 @@
     "icon": "/apps/qurankareem/quran-kareem-icon.png",
     "androidPackage": "com.moalemadi.qurankareem",
     "iosBundleId": "com.mushaf.reader",
-    "stores": {},
+    "stores": {
+      "android": "https://play.google.com/store/apps/details?id=com.moalemadi.qurankareem"
+    },
     "screenshots": []
   },
   {
